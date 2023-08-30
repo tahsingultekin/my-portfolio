@@ -13,7 +13,7 @@ const Project_3 = () => {
           className="bg-center bg-cover h-full md1020:h-auto"
         />
       </div>
-      <div className="review-text flex flex-col h-auto justify-center text-center w-[42rem] md1020:my-0 md1020:mx-auto min400:w-full">
+      <div className="review-text flex flex-col h-auto justify-center text-center w-[44rem] md1020:my-0 md1020:mx-auto min400:w-full">
         <h3 className="text-[#2d2e32] text-[2.25rem] mb-[2rem] relative uppercase font-bold">
           Student Form 🧑‍🎓
         </h3>
@@ -22,7 +22,7 @@ const Project_3 = () => {
           application. GET, PUT, POST, and DELETE API requests are performed
           using the "dummyjson" API. Additionally, API requests to the
           "dummyjson" API are used for pagination through Limit and Skip, as
-          well as for searching operations.
+          well as for searching operations.This project is NOT RESPONSIVE.
         </p>
         <div className="stack flex gap-[3rem] justify-center mt-[1rem]">
           <p className="text-[#2d2e32] text-[2.25rem] font-semibold text-center bg-[#fff] shadow-md  py-[1rem] px-[1.3rem] cursor-pointer">
