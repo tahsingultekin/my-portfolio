@@ -13,7 +13,7 @@ const Project_3 = () => {
           className="bg-center bg-cover h-full md1020:h-auto"
         />
       </div>
-      <div className="review-text flex flex-col h-auto justify-center text-center w-[44rem] md1020:my-0 md1020:mx-auto min400:w-full">
+      <div className="review-text flex flex-col h-auto justify-center text-center w-[45rem] md1020:my-0 md1020:mx-auto min400:w-full">
         <h3 className="text-[#2d2e32] text-[2.25rem] mb-[2rem] relative uppercase font-bold">
           Student Form 🧑‍🎓
         </h3>
