@@ -5,7 +5,7 @@ import student from "../assets/student_form.png";
 
 const Project_3 = () => {
   return (
-    <div className="review bg-[#fff] rounded-[2rem] shadow-lg flex justify-evenly gap-[8rem] h-[48rem] p-[2rem] md1020:flex-col md1020:gap-[1.75rem] md1020:h-[85rem] md1020:my-0 md1020:mx-auto md1020:w-fit min400:w-full">
+    <div className="review bg-[#fff] rounded-[2rem] shadow-lg flex justify-evenly gap-[8rem] h-[50rem] p-[2rem] md1020:flex-col md1020:gap-[1.75rem] md1020:h-[85rem] md1020:my-0 md1020:mx-auto md1020:w-fit min400:w-full">
       <div className="review-img bg-[hsla(0,0%,46%,.2] rounded-[2rem] shadow-md h-auto overflow-hidden w-[53rem] min650:w-full">
         <img
           src={student}
